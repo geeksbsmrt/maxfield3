@@ -9,18 +9,12 @@ way (and the order) that creates the most fields. This is harder than it sounds.
 If you're working on more than a dozen portals, learning to use this code may
 be faster than planning by hand.
 
-This code follows the procedure in my [YouTube video][0].
+This code follows the procedure in Jonathan Baker's [YouTube video][0].
 
 
 # Prerequisites
 
-You'll need [Python][3] as well as networkx, numpy, and matplotlib.
-
-You can get these setup easily with the [Enthought Python Distribution][1].
-
-You can use [pip][3] to install the dependencies via:
-
-    pip3 install -r requirements.txt
+You'll need [Python3][1] as well as networkx, numpy, and matplotlib.
 
 # Example
 
@@ -108,6 +102,4 @@ different plan.
 
 
 [0]: https://www.youtube.com/watch?v=priezq6Dm4Y
-[1]: https://www.enthought.com/downloads/
-[2]: https://www.python.org/download/releases/2.7
-[3]: https://pypi.python.org/pypi/pip
+[1]: https://www.python.org/
