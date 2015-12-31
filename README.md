@@ -18,9 +18,9 @@ You'll need [Python3][1] as well as networkx, numpy, and matplotlib.
 
 # Example
 
-I'll be distributing this code with a file EXAMPLE.csv. Try running
+I'll be distributing this code with a file Test.csv. Try running
 
-    python3 makePlan.py -n 4 EXAMPLE.csv
+    python3 makePlan.py -n 4 Test.csv
 
 This will put a bunch of files into the "%USRDIR%/Ingress/Fielding/%inputFileName%" directory (see OUTPUT FILE LIST)
 
